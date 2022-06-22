@@ -1,3 +1,12 @@
+// Step 1: Download the template and open it with VS Code
+// Step 2: Explore the HTML and the data
+// Step 3: Read the instructions carefully
+// Step 4: Query the elements that we will need to use from the page
+// Step 5: Create a function for every action we will need to perform (i.e. addDogListItem, displayDog)
+// Step 6: Start writing one function at a time, testing along the way to make sure things work the way we expect them to
+// Step 7: Call the functions when we need to (i.e. call addDogListItem for each dog available whent he app starts, call displayDog when we click a dog list item, etc)
+
+// Instructions:
 // - You'll find a variable called data in the console.log. That's your list of dogs
 // - Render the top list of dogs using the list item template you'll find on the HTML file
 // - Each list item should be clickable. When you click on an item, the selected dog should display on the main card
